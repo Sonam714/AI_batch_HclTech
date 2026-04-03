@@ -78,6 +78,20 @@ git branch
 push a branch to remote:
 git push -u origin main
 
+If fatal SSH error occurs:
+
+git config --global http.sslBackend schannel
+and then:
+git push -u origin main
+
+You need to authenticate the github account
+and then check the repository for the updated content
+
+
+
+
+
+
 
 
 
