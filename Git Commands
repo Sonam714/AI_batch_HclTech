@@ -128,7 +128,9 @@ git push origin feature-dev
 git push origin feature-design
 
 
-
+List the Commit History:
+To find the commit hashes:
+git log --oneline --graph --all
 
 
 
