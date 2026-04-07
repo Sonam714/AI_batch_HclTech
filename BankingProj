@@ -27,5 +27,15 @@ Add a file : Bank.html:
 </html>
 
 
+git init
+git add .
+git commit -m "Plain HTML file"
+
+
+git remote add origin https://github.com/monicag-gupta/BankingProj.git
+
+
+
+
 
 
