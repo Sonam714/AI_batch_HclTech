@@ -34,7 +34,8 @@ git commit -m "Plain HTML file"
 
 git remote add origin https://github.com/monicag-gupta/BankingProj.git
 
-
+rename cuurent branch :
+git branch -m main
 
 
 
